@@ -1,0 +1,19 @@
+comidas = ["Pizza", "Hamburguesa", "Lasagna", "Baleadas", "Tamales", "Spaghetti", "Tacos", "Bagre en Salsa", "Bragre Frito", "Papas Fritas", "Arepas", "Arroz con Vegetales", "Pollo Frito", "Pavo Asado", Pato Asado", "Sopas", "Camarones", "Langostas", "Pescado Frito", "Empanadas"]
+
+def imprimir_menu():
+	print("Escoge tus 5 comidas favoritas")
+	for comida in comidas: 
+			print(comida)
+			
+			
+imprimir_menu
+
+comidas favoritas = ["Pizza", "Spaghetti", "Lasagna", "Camarones", "Tacos"]
+
+	def imprimir_menu():
+	print("Estas son mis 5 comidas favoritas")
+	for comida in comidas_favoritas:
+		print(comida)
+		
+		
+imprimir_menu
